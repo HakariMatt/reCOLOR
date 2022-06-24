@@ -1,4 +1,4 @@
-Mod adds "Delta Blue" color option to reDIRECT STS parts
+Mod adds "Delta Blue" and some flags color option to reDIRECT STS parts
 
 Installation: move reCOLOR folder to your GameData folder
 
